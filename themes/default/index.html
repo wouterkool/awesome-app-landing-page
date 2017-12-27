@@ -70,6 +70,8 @@
 
 <div class="footer">
   <div class="container">
-    <!-- footer text here -->
+    {% if site.marketing_footer %}
+    <p class="marketing-footer">{{ site.marketing_footer }}</p>
+    {% endif %}
   </div>
 </div>
