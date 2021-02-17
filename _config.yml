@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: SET Finder # REQUIRED - Enter your app name
+  name: SET® Finder # REQUIRED - Enter your app name
   ios_id: 1258296074 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.setapp # Optional - Enter Android app id like: com.example.app
 
